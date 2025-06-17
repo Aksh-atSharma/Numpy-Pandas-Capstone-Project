@@ -74,7 +74,7 @@ Developed confidence in filtering, transforming, and analyzing tabular data
 📬 Contact
 If you have any suggestions or feedback, feel free to connect:
 
-📧 Email: akshat@1871998@email.com
+📧 Email: akshat1871998@email.com
 
 💼 LinkedIn: https://www.linkedin.com/in/akshat-sharma-35aab1179/
 
